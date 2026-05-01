@@ -11,3 +11,4 @@ If you wish to use TDLib in your Android project, refer to [Using in Java projec
 `TDLib` is licensed under the terms of the Boost Software License.
 
 For more information, see [LICENSE_1_0.txt](http://www.boost.org/LICENSE_1_0.txt), or refer to the original [TDLib repository](https://github.com/tdlib/td).
+
